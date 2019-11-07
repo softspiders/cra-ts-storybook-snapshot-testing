@@ -1,2 +1,2 @@
 # react-storybook-typescript
-Minimalistic React in TypeScript with Storybook and Snapshot testing
+The simplest example of React in TypeScript with Storybook and Snapshot testing
