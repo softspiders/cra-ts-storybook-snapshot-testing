@@ -1,4 +1,4 @@
-# react-storybook-typescript
+# cra-storybook-typescript
 
 Minimalistic React in TypeScript with Storybook and Snapshot testing
 
