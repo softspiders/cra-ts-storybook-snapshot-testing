@@ -2,6 +2,10 @@
 
 Minimalistic React in TypeScript with Storybook and Snapshot testing
 
+## Direct ancestors
+
+[cra-typescript-test](https://github.com/softspider/cra-typescript-test)
+
 ## Requirements
 
 [*Node*](https://nodejs.org/en/download/package-manager/)
