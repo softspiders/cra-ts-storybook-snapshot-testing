@@ -8,7 +8,9 @@ Minimalistic React in TypeScript with Storybook and Snapshot testing
 
 ## Requirements
 
-[*Node*](https://nodejs.org/en/download/package-manager/)
+* [*Node*](https://nodejs.org/en/download/package-manager/)
+* [*create-react-app*](https://facebook.github.io/create-react-app/)
+
 
 ## Installation
 
