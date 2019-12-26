@@ -6,6 +6,12 @@ Minimalistic React in TypeScript with Storybook and Snapshot testing
 
 [cra-typescript-test](https://github.com/softspider/cra-typescript-test)
 
+
+## Direct descendants
+
+[cra-ts-uilib-storybook-snapshot-test-lerna](https://github.com/softspider/cra-ts-uilib-storybook-snapshot-test-lerna)
+
+
 ## Requirements
 
 * [*Node*](https://nodejs.org/en/download/package-manager/)
