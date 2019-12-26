@@ -2,21 +2,34 @@
 
 Minimalistic React in TypeScript with Storybook and Snapshot testing
 
+## Feature tags
+
+- create-react-app
+- lerna
+- react
+- snapshot
+- storybook
+- test
+- typescript
+
+---
+
 ## Direct ancestors
 
 [cra-typescript-test](https://github.com/softspider/cra-typescript-test)
-
 
 ## Direct descendants
 
 [cra-ts-uilib-storybook-snapshot-test-lerna](https://github.com/softspider/cra-ts-uilib-storybook-snapshot-test-lerna)
 
+---
 
 ## Requirements
 
 * [*Node*](https://nodejs.org/en/download/package-manager/)
 * [*create-react-app*](https://facebook.github.io/create-react-app/)
 
+---
 
 ## Installation
 
@@ -29,6 +42,8 @@ yarn
 ```sh
 yarn start-storybook -p 9009 -s public
 ```
+
+---
 
 ## Authors
 
