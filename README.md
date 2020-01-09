@@ -1,3 +1,4 @@
+SOFTSPIDERS
 # cra-ts-storybook-snapshot-testing
 
 Minimalistic React in TypeScript with Storybook and Snapshot testing
