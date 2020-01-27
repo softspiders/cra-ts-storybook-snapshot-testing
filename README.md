@@ -17,11 +17,11 @@ Minimalistic React in TypeScript with Storybook and Snapshot testing
 
 ## Direct ancestors
 
-[cra-typescript-test](https://github.com/softspider/cra-typescript-test)
+[cra-typescript-test](https://github.com/softspiders/cra-typescript-test)
 
 ## Direct descendants
 
-[cra-ts-uilib-storybook-storyshots-lerna](https://github.com/softspider/cra-ts-uilib-storybook-storyshots-lerna)
+[cra-ts-uilib-storybook-storyshots-lerna](https://github.com/softspiders/cra-ts-uilib-storybook-storyshots-lerna)
 
 ---
 
