@@ -1,4 +1,5 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
+
 # cra-ts-storybook-snapshot-testing
 
 Minimalistic React in TypeScript with Storybook and Snapshot testing
@@ -8,8 +9,10 @@ Minimalistic React in TypeScript with Storybook and Snapshot testing
 - create-react-app
 - lerna
 - react
+- starter
 - storyshot
 - storybook
+- template
 - test
 - typescript
 
